@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wassem</h1>
 <h3 align="center">I'm currently working on mastering NestJS and developing a large educational real-time project. I'm looking to collaborate on projects involving Flutter ,Express and Nest, where I can leverage my expertise.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wassemmj" alt="wassemmj" /></a> </p>
-
 - 🌱 I’m currently learning **NestJS and project management**
 
 - 💬 Ask me about **Node.JS , Nest.JS , Express.JS and Flutter**
